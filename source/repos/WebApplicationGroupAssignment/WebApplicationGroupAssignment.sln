@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 22
+VisualStudioVersion = 18.4.11612.150 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationGroupAssignment", "WebApplicationGroupAssignment\WebApplicationGroupAssignment.csproj", "{0860355E-AD82-4FFD-A28A-BB9B90D944C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0860355E-AD82-4FFD-A28A-BB9B90D944C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0860355E-AD82-4FFD-A28A-BB9B90D944C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0860355E-AD82-4FFD-A28A-BB9B90D944C5}.Default|Any CPU.ActiveCfg = Release|Any CPU
+		{0860355E-AD82-4FFD-A28A-BB9B90D944C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0860355E-AD82-4FFD-A28A-BB9B90D944C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F878443E-424F-4CA0-9961-75015B2569BD}.Debug|Any CPU.ActiveCfg = Default
+		{F878443E-424F-4CA0-9961-75015B2569BD}.Default|Any CPU.ActiveCfg = Default
+		{F878443E-424F-4CA0-9961-75015B2569BD}.Release|Any CPU.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17CEEB49-74F5-49C8-AB88-061891B31050}
+	EndGlobalSection
+EndGlobal
